@@ -1,0 +1,39 @@
+{
+	"applications" : [
+		{
+			"name" : "app-admin",
+			"resources" : [
+				{
+					"name" : "user",
+					"actions" : [
+						{
+							"name" : "create"
+						},
+						{
+							"name" : "read"
+						},
+						{
+							"name" : "write"
+						},
+						{
+							"name" : "delete"
+						}
+					]			
+				}
+			]
+		},
+		{
+			"name" : "app-reader",
+			"resources" : [
+				{
+					"name" : "user",
+					"actions" : [
+						{
+							"name" : "read"
+						}
+					]					
+				}
+			]
+		}		
+	]
+}
