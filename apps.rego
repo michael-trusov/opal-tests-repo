@@ -1,4 +1,4 @@
-package play
+package apps
 
 import future.keywords.if
 import future.keywords.contains
