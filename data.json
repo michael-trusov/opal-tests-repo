@@ -1,7 +1,7 @@
 {
 	"applications" : [
 		{
-			"name" : "app1",
+			"name" : "app3",
 			"resources" : [
 				{
 					"name" : "user",
@@ -26,7 +26,7 @@
 			]
 		},
 		{
-			"name" : "app2",
+			"name" : "app4",
 			"resources" : [
 				{
 					"name" : "user",
