@@ -1,4 +1,4 @@
-package apps3
+package apps
 
 import future.keywords.if
 import future.keywords.contains
